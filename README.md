@@ -11,7 +11,8 @@ Built using **HTML, CSS, and JavaScript**, this app fetches live weather informa
 ---
 
 ## 🖼️ Preview
-![Weather App Screenshot](https://tiny-shortbread-9b46d2.netlify.app/preview.png) <!-- You can replace this with your screenshot link -->
+![Weather App Screenshot](<img width="1920" height="904" alt="{B34F9599-22CC-4FF8-BA5E-F152F96B9B74}" src="https://github.com/user-attachments/assets/123d5924-0053-4cf6-be15-f86e79ba630b" />
+) <!-- You can replace this with your screenshot link -->
 
 ---
 
