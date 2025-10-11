@@ -11,8 +11,8 @@ Built using **HTML, CSS, and JavaScript**, this app fetches live weather informa
 ---
 
 ## 🖼️ Preview
-![Weather App Screenshot](<img width="1920" height="904" alt="{B34F9599-22CC-4FF8-BA5E-F152F96B9B74}" src="https://github.com/user-attachments/assets/123d5924-0053-4cf6-be15-f86e79ba630b" />
-) <!-- You can replace this with your screenshot link -->
+<img width="1920" height="904" alt="image" src="https://github.com/user-attachments/assets/f0000373-8be9-4583-84ee-0236cf0b5c97" />
+<!-- You can replace this with your screenshot link -->
 
 ---
 
@@ -38,4 +38,4 @@ Built using **HTML, CSS, and JavaScript**, this app fetches live weather informa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/manishrana7979/Weather-App.git
+   git clone https://github.com/manishrana7979/Weather_App.git
