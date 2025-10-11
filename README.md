@@ -38,4 +38,4 @@ Built using **HTML, CSS, and JavaScript**, this app fetches live weather informa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Weather-App.git
+   git clone https://github.com/manishrana7979/Weather-App.git
