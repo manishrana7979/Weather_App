@@ -1,0 +1,131 @@
+/* Reset & base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Card styling */
+.card {
+  width: 100%;
+  max-width: 470px;
+  background: linear-gradient(135deg, #00feba, #5b548a);
+  color: #fff;
+  border-radius: 20px;
+  padding: 30px 25px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  /* border-radius: 50px; */
+}
+
+/* Search box */
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.search input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: #ebfffc;
+  color: #333;
+  padding: 12px 20px;
+  height: 50px;
+  border-radius: 30px;
+  font-size: 16px;
+}
+
+.search button {
+  border: none;
+  outline: none;
+  background: #ebfffc;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search button img {
+  width: 24px;
+  height: 24px;
+}
+
+/* Weather section */
+.weather-icon {
+  width: 140px;
+  margin: 20px auto;
+}
+
+.weather h1 {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.weather h2 {
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: -5px;
+}
+
+/* Weather details */
+.details {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  gap: 20px;
+}
+
+.col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.col img {
+  width: 60px;
+  margin-bottom: 5px;
+}
+
+.humidity, .wind {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+/* Responsive adjustments */
+@media (max-width: 500px) {
+  .weather-icon {
+    width: 100px;
+  }
+  .weather h1 {
+    font-size: 48px;
+  }
+  .weather h2 {
+    font-size: 28px;
+  }
+  .col img {
+    width: 50px;
+  }
+  .humidity, .wind {
+    font-size: 18px;
+  }
+}
+
