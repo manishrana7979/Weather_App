@@ -6,7 +6,7 @@ Built using **HTML, CSS, and JavaScript**, this app fetches live weather informa
 ---
 
 ## 🚀 Live Demo  
-🔗 [[View Weather App]https://sensational-cheesecake-0030e2.netlify.app/]
+🔗 https://sensational-cheesecake-0030e2.netlify.app/
 
 ---
 
